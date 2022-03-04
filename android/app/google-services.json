@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "487519785407",
+    "firebase_url": "https://oipapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "oipapp",
+    "storage_bucket": "oipapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487519785407:android:b39a0adc103dfa9d55510a",
+        "android_client_info": {
+          "package_name": "com.oip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487519785407-v4viuha2r80tfoia69tvqe95fdvqu6vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCquSBbIVH_ZcnPrFfmx8vbb00A7H-Fu8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487519785407-v4viuha2r80tfoia69tvqe95fdvqu6vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

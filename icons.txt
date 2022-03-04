@@ -1,0 +1,15 @@
+logo design---------design-services----MaterialIcons
+stationery design---my-library-books---MaterialIcons
+web development-----web---------------Materiallcons
+app development----developer-mode------Materiallcons
+video development--video-settings------Materiallcons
+seo-----------------person-search------Materiallcons
+social media marketing---megaphone-----Entypo
+lead generation------leaderboard-------Materiallcons
+email marketing------outgoing-mail-----MaterialIcons
+content writing------edit-off----------MaterialIcons
+resource outsourcing-settings-applications--MaterialIcons
+cyber security-------security---------MaterialIcons
+hosting plan--------cloud-done-------MaterialIcons
+lead generation with smm--trending-up--MaterialIcons
+branding & design----branding-watermark---MaterialIcons
